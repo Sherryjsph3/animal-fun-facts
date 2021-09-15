@@ -1,6 +1,7 @@
 // import { animals } from "./components/Animals"
 import Main from "./components/Main"
-import './App.css';
+
+import './index.css';
 
 
 function App() {
